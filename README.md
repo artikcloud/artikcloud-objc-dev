@@ -7,7 +7,7 @@ This SDK helps you connect your iOS or OS X applications to ARTIK Cloud. It expo
 
 ## Requirements
 
-The SDK requires [**ARC (Automatic Reference Counting)**](http://stackoverflow.com/questions/7778356/how-to-enable-disable-automatic-reference-counting) to be enabled in the Xcode project.
+The SDK requires [**ARC (Automatic Reference Counting)**](http://stackoverflow.com/questions/7778356/how-to-enable-disable-automatic-reference-counting) to be enabled in the Xcode project.  
 
 ## Installation & Usage
 ### Install from Github using [CocoaPods](https://cocoapods.org/)
