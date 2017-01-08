@@ -1,0 +1,6 @@
+framework module ArtikCloud {
+  umbrella header "ArtikCloud-umbrella.h"
+
+  export *
+  module * { export * }
+}

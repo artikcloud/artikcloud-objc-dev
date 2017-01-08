@@ -1,0 +1,39 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - ArtikCloud (2.0.6):
+    - AFNetworking (~> 3)
+    - ISO8601 (~> 0.5)
+    - JSONModel (~> 1.2)
+  - ISO8601 (0.6.0)
+  - JSONModel (1.7.0)
+
+DEPENDENCIES:
+  - ArtikCloud (from `../`)
+
+EXTERNAL SOURCES:
+  ArtikCloud:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  ArtikCloud: 74721e49ae82f790aace32b9b8860b16654cf77f
+  ISO8601: d3ea3ba9b752820cf92c6b47a9ee327e9f0e13fc
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+
+PODFILE CHECKSUM: 2bd90a6ca0e6ef4bfd7cba1837d23b4d491870ec
+
+COCOAPODS: 1.1.1

@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
     s.name             = "ArtikCloud"
-    s.version          = "2.0.6-SNAPSHOT"
+    s.version          = "2.0.6"
 
     s.summary          = "ARTIK Cloud API"
     s.description      = <<-DESC
